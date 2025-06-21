@@ -60,7 +60,7 @@ Upon looking at other model we could use we found a codebert model fine-tuned on
 [^hf-cb-base]: [https://huggingface.co/microsoft/codebert-base](https://huggingface.co/microsoft/codebert-base)
 [^hf-cb-cpp]:  [https://huggingface.co/neulab/codebert-cpp](https://huggingface.co/neulab/codebert-cpp)
 
-![Results os using `neulab/codebert-cpp` to train a classifier](./assets/m1.png)
+![Results of using `neulab/codebert-cpp` to train a classifier](./assets/m1.png)
 
 ## BILSTM Neural Network Binary Classification
 
