@@ -21,7 +21,6 @@ pandoc --citeproc report.md -o report.pdf
 
 \newpage
 
-
 # Introduction
 
 For our submission, we have experimented with the big-vul dataset to achieve a generic classifier for detecting vulnerabilities in C++ on a per function and per line detection.
@@ -206,6 +205,10 @@ Balancing the dataset by reducing the non-vulnerable functions by 50 percent and
 \newpage
 
 # References
+
+- Source code: [github.com/Meerschwein/Automating-SE](https://github.com/Meerschwein/Automating-SE)
+- Trained models: [aauklagenfurt-my.sharepoint.com](https://aauklagenfurt-my.sharepoint.com/personal/merlinvo_edu_aau_at/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fmerlinvo%5Fedu%5Faau%5Fat%2FDocuments%2Fai&ga=1)
+- Final Slides: [docs.google.com/presentation](https://docs.google.com/presentation/d/1CQoZ86lJr3JKXkIUoRfV7mNCRdJGWx5OSxvF8yuJ_mQ/edit?usp=sharing)
 
 ::: {#refs}
 :::
